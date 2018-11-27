@@ -1,0 +1,4 @@
+﻿  Random Num.cpp
+c:\users\punja\dropbox\c++ projects - amarjit\03d - random number\03d - random number\random num.cpp(21): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  03d - Random Number.vcxproj -> C:\Users\punja\Dropbox\C++ Projects - Amarjit\03d - Random Number\Debug\03d - Random Number.exe
+  03d - Random Number.vcxproj -> C:\Users\punja\Dropbox\C++ Projects - Amarjit\03d - Random Number\Debug\03d - Random Number.pdb (Full PDB)
