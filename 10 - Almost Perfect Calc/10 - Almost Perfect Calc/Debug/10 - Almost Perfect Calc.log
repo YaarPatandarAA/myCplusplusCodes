@@ -1,0 +1,31 @@
+﻿  MainCalc.cpp
+c:\users\punja\dropbox\c++ projects - amarjit\10 - almost perfect calc\10 - almost perfect calc\maincalc.cpp(6): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  c:\users\punja\dropbox\c++ projects - amarjit\10 - almost perfect calc\10 - almost perfect calc\maincalc.cpp(28): note: see reference to function template instantiation 'T add<int,double>(T,U)' being compiled
+          with
+          [
+              T=int,
+              U=double
+          ]
+c:\users\punja\dropbox\c++ projects - amarjit\10 - almost perfect calc\10 - almost perfect calc\maincalc.cpp(11): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  c:\users\punja\dropbox\c++ projects - amarjit\10 - almost perfect calc\10 - almost perfect calc\maincalc.cpp(29): note: see reference to function template instantiation 'T sub<int,double>(T,U)' being compiled
+          with
+          [
+              T=int,
+              U=double
+          ]
+c:\users\punja\dropbox\c++ projects - amarjit\10 - almost perfect calc\10 - almost perfect calc\maincalc.cpp(16): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  c:\users\punja\dropbox\c++ projects - amarjit\10 - almost perfect calc\10 - almost perfect calc\maincalc.cpp(30): note: see reference to function template instantiation 'T mul<int,double>(T,U)' being compiled
+          with
+          [
+              T=int,
+              U=double
+          ]
+c:\users\punja\dropbox\c++ projects - amarjit\10 - almost perfect calc\10 - almost perfect calc\maincalc.cpp(21): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  c:\users\punja\dropbox\c++ projects - amarjit\10 - almost perfect calc\10 - almost perfect calc\maincalc.cpp(31): note: see reference to function template instantiation 'T div<int,double>(T,U)' being compiled
+          with
+          [
+              T=int,
+              U=double
+          ]
+  10 - Almost Perfect Calc.vcxproj -> C:\Users\punja\Dropbox\C++ Projects - Amarjit\10 - Almost Perfect Calc\Debug\10 - Almost Perfect Calc.exe
+  10 - Almost Perfect Calc.vcxproj -> C:\Users\punja\Dropbox\C++ Projects - Amarjit\10 - Almost Perfect Calc\Debug\10 - Almost Perfect Calc.pdb (Full PDB)
